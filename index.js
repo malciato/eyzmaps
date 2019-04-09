@@ -11,4 +11,4 @@ var files = fs.readdirSync(folder).map(f => {
   }
 })
 
-exports = maps
+module.exports = maps
