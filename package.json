@@ -1,0 +1,14 @@
+{
+  "name": "eyzmaps",
+  "version": "0.1.0",
+  "description": "Conversion libraries",
+  "author": "D See Ker <dseeker@github.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
