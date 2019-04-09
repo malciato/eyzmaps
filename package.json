@@ -5,4 +5,10 @@
   "author": "D See Ker <dseeker@github.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
 }
